@@ -40,15 +40,11 @@ input[type=submit]:hover {
 }
 
 ul {
-  list-style-type:circle;
+  list-style-type: circle;
 }
 
 ol {
   list-style-type: upper-roman;
-}
-
-li {
-  list-style: inside;
 }
 
 nav a {
